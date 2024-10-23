@@ -1,0 +1,11 @@
+C:\Users\hamod\source\repos\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+C:\Users\hamod\source\repos\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+C:\Users\hamod\source\repos\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+C:\Users\hamod\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamod\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\hamod\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\hamod\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\hamod\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+C:\Users\hamod\source\repos\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+C:\Users\hamod\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+C:\Users\hamod\source\repos\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
